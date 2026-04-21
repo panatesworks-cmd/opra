@@ -4,7 +4,7 @@ import type { HttpEvent } from '../http/interfaces/http-event.js';
 
 /**
  * Abstract base class for all backends.
- *
+ * Deneme
  * @class Backend
  */
 export abstract class Backend implements Backend {
